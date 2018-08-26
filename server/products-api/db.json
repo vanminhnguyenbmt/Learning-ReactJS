@@ -1,0 +1,40 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Samsung Galaxy Note8",
+      "price": 500,
+      "status": true
+    },
+    {
+      "name": "Samsung Galaxy Note9",
+      "price": 500,
+      "status": true,
+      "id": 2
+    },
+    {
+      "name": "IPhone X",
+      "price": "1000",
+      "status": "",
+      "id": 4
+    },
+    {
+      "name": "Nokia 2700 Classic",
+      "price": "50",
+      "status": true,
+      "id": 7
+    },
+    {
+      "id": 8,
+      "name": "Oppo F1s",
+      "price": "250",
+      "status": true
+    },
+    {
+      "id": 9,
+      "name": "Asus Zenfone",
+      "price": "200",
+      "status": ""
+    }
+  ]
+}
