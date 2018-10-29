@@ -45,9 +45,9 @@ console.log('Mang: ', mang);
 /* pure function
 var c = 100;
 var add = (a, b) => {
-    // c = 50, không được thay đổi giá trị trong pure func
-    //Async task, không chưa tác vụ bất đồng bộ
-    //One input => 1 output
+    // c = 50, không được thay đổi giá trị của biến bên ngoài trong pure function
+    //Async task, không chứa tác vụ bất đồng bộ
+    //One input => 1 output (tức 1 input thì cho ra 1 output chứ không phải nhiều output khác nhau)
     return a + b
 };
 console.log(add(5, 6));
